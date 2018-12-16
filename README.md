@@ -1,2 +1,4 @@
 # MITx-6.00.1x-2018
-Assorted notes and code scraps from MITx-6.00.1x on edX, taken around Summer 2018.
+This [course](https://courses.edx.org/courses/course-v1:MITx+6.00.1x+2T2017_2/course/) that I took in the summer of 2018 was instrumental in getting me started with learning Python. It was chock full of practice problems throughout each lecture unit of the course, and their test cases helped me conceptualize how the flow of my programs should be. At the time I was even more novice than I am now (written Dec 2018), and I think without this course I wouldn't have had nearly as smooth an experience diving into a programming language. 
+
+I'm extremely grateful for this course. Putting the notes and bits of code I wrote for this course up into a repository is kind of a nostalgic backup. The code written in these tiny programs is naive and inexperienced, but it reminds me of what it felt like to first begin learning how to program in Python. 
